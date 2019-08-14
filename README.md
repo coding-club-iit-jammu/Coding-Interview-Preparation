@@ -21,7 +21,7 @@ Below are some useful resources for coding interview preparation for internships
 4. [InterviewBit](https://interviewbit.com)
 
 ## Mock Interviews
-1. [Pramp](pramp.com)
+1. [Pramp](https://www.pramp.com/)
 2. [interviewing.io](https://interviewing.io)
 
 ## Groups
