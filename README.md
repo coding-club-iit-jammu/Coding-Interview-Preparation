@@ -12,6 +12,7 @@ Below are some useful resources for coding interview preparation for internships
 ## Videos
 1. [Create your resume: tips and advice from Google](https://www.youtube.com/watch?v=BYUy1yvjHxE)
 2. [CS50 and Quora Present: Preparation and Practice for Technical Interviews](https://www.youtube.com/watch?v=eJjg2MkYPaY)
+3. [HiredInTech](https://www.hiredintech.com/)
 
 ## Preparation Resources
 1. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
