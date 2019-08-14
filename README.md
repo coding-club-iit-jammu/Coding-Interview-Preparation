@@ -19,6 +19,7 @@ Below are some useful resources for coding interview preparation for internships
 2. Cracking the Coding Interview Book
 3. [Leetcode](https://leetcode.com)
 4. [InterviewBit](https://interviewbit.com)
+5. [Coding Interview Questions from Google's Tech Dev Guide](https://techdevguide.withgoogle.com/resources/types/coding-interview-question/)
 
 ## Mock Interviews
 1. [Pramp](https://www.pramp.com/)
