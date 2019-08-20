@@ -8,6 +8,7 @@ Below are some useful resources for coding interview preparation for internships
 4. [Crack a coding question in a tech interview](https://blog.usejournal.com/part-3-crack-a-coding-question-in-a-tech-interview-heres-how-667cb2abda67)
 5. [Interviewing is not just coding](https://blog.usejournal.com/part-4-interviewing-is-not-just-coding-prepping-for-behavioral-afe68f4762dc)
 6. [Resume tips from Ex-Google Tech Lead](https://drive.google.com/file/d/10b9NZDhPbUOW_C7108IKe9ev6Ed2UG7F/view)
+7. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 
 ## Videos
 1. [Create your resume: tips and advice from Google](https://www.youtube.com/watch?v=BYUy1yvjHxE)
