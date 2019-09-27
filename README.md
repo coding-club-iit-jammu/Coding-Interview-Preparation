@@ -30,3 +30,8 @@ Below are some useful resources for coding interview preparation for internships
 1. [Tech Recruiter email sharing: fb group](https://www.facebook.com/groups/2054888934622756/)
 2. [Cracking the Coding Interview: slack group](https://crackinginterview.slack.com/join/shared_invite/enQtNjU3MzM2ODU0NDg3LTY1MzUwZGM5ODBkNmE5YjUwOTAyOWFkZTY1MmE4MjYzYzIwZmYxMWUxOGRlM2NhZWFkOGI0NGJlOWMxMzJhNTY%20…)
 3. [Directi's Talent Social Club: flock group](https://talentsocial.flock.com?i=59asdst9r5ktstao)
+4. [Inter IIT/NIT/IIIT/BITS Placement Group](https://www.facebook.com/groups/1540488506008368/)
+5. [Tech Recruiter Email Sharing](https://www.facebook.com/groups/2054888934622756/)
+6. [Subtle Asian Tech Group](https://www.facebook.com/groups/2129028140676009/)
+7. [Subtle Asian Networking](https://www.facebook.com/groups/202658000620915/)
+8. [HH Coding Interview Prep](https://www.facebook.com/groups/722062947858000)
