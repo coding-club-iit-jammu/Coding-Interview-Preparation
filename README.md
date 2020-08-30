@@ -1,14 +1,17 @@
 # Coding-Interview-Preparation
 Below are some useful resources for coding interview preparation for internships/jobs:
 
-## Reading
+## Internship
 1. [Playing the Internship Game](https://evykassirer.github.io/playing-the-internship-game/)
-2. [Getting a call - Resume Building and Applying](https://blog.usejournal.com/part-1-getting-a-call-from-your-dream-company-c82d6f68dbd4)
-3. [How to prepare for your next coding interview](https://blog.usejournal.com/part-2-how-to-prepare-for-your-next-coding-interview-d048b188301e)
-4. [Crack a coding question in a tech interview](https://blog.usejournal.com/part-3-crack-a-coding-question-in-a-tech-interview-heres-how-667cb2abda67)
-5. [Interviewing is not just coding](https://blog.usejournal.com/part-4-interviewing-is-not-just-coding-prepping-for-behavioral-afe68f4762dc)
-6. [Resume tips from Ex-Google Tech Lead](https://drive.google.com/file/d/10b9NZDhPbUOW_C7108IKe9ev6Ed2UG7F/view)
-7. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+2. [Common patterns to ace coding interview](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+
+## Reading
+1. [Getting a call - Resume Building and Applying](https://blog.usejournal.com/part-1-getting-a-call-from-your-dream-company-c82d6f68dbd4)
+2. [How to prepare for your next coding interview](https://blog.usejournal.com/part-2-how-to-prepare-for-your-next-coding-interview-d048b188301e)
+3. [Crack a coding question in a tech interview](https://blog.usejournal.com/part-3-crack-a-coding-question-in-a-tech-interview-heres-how-667cb2abda67)
+4. [Interviewing is not just coding](https://blog.usejournal.com/part-4-interviewing-is-not-just-coding-prepping-for-behavioral-afe68f4762dc)
+5. [Resume tips from Ex-Google Tech Lead](https://drive.google.com/file/d/10b9NZDhPbUOW_C7108IKe9ev6Ed2UG7F/view)
+6. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 
 ## Videos
 1. [Create your resume: tips and advice from Google](https://www.youtube.com/watch?v=BYUy1yvjHxE)
